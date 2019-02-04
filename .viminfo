@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1549263753,,"wq"
+|2,0,1549263864,,"wq"
 :q!
 |2,0,1549261971,,"q!"
 
@@ -27,34 +27,46 @@
 # Registers:
 
 # File marks:
-'0  1  41  ~/file1.txt
-|4,48,1,41,1549263753,"~/file1.txt"
-'1  1  10  ~/.gitignore
-|4,49,1,10,1549262845,"~/.gitignore"
-'2  1  9  ~/.gitignore
-|4,50,1,9,1549262800,"~/.gitignore"
-'3  2  13  ~/credentials
-|4,51,2,13,1549262723,"~/credentials"
-'4  6  0  ~/file1.txt
-|4,52,6,0,1549262545,"~/file1.txt"
-'5  5  0  ~/file1.txt
-|4,53,5,0,1549262545,"~/file1.txt"
-'6  2  11  ~/file3.txt
-|4,54,2,11,1549262450,"~/file3.txt"
-'7  4  19  ~/file1.txt
-|4,55,4,19,1549261985,"~/file1.txt"
-'8  4  19  ~/file1.txt
-|4,56,4,19,1549261985,"~/file1.txt"
-'9  3  19  ~/file1.txt
-|4,57,3,19,1549261985,"~/file1.txt"
+'0  6  10  ~/file1.txt
+|4,48,6,10,1549263864,"~/file1.txt"
+'1  1  41  ~/file1.txt
+|4,49,1,41,1549263753,"~/file1.txt"
+'2  1  41  ~/file1.txt
+|4,50,1,41,1549263753,"~/file1.txt"
+'3  1  10  ~/.gitignore
+|4,51,1,10,1549262845,"~/.gitignore"
+'4  1  9  ~/.gitignore
+|4,52,1,9,1549262800,"~/.gitignore"
+'5  2  13  ~/credentials
+|4,53,2,13,1549262723,"~/credentials"
+'6  5  0  ~/file1.txt
+|4,54,5,0,1549262545,"~/file1.txt"
+'7  6  0  ~/file1.txt
+|4,55,6,0,1549262545,"~/file1.txt"
+'8  5  0  ~/file1.txt
+|4,56,5,0,1549262545,"~/file1.txt"
+'9  2  11  ~/file3.txt
+|4,57,2,11,1549262450,"~/file3.txt"
 
 # Jumplist (newest first):
+-'  6  10  ~/file1.txt
+|4,39,6,10,1549263864,"~/file1.txt"
+-'  1  41  ~/file1.txt
+|4,39,1,41,1549263856,"~/file1.txt"
 -'  1  41  ~/file1.txt
 |4,39,1,41,1549263753,"~/file1.txt"
 -'  1  10  ~/.gitignore
 |4,39,1,10,1549262845,"~/.gitignore"
 -'  1  10  ~/.gitignore
 |4,39,1,10,1549262845,"~/.gitignore"
+-'  1  10  ~/.gitignore
+|4,39,1,10,1549262845,"~/.gitignore"
+-'  1  10  ~/.gitignore
+|4,39,1,10,1549262845,"~/.gitignore"
+-'  1  9  ~/.gitignore
+|4,39,1,9,1549262800,"~/.gitignore"
+-'  1  9  ~/.gitignore
+|4,39,1,9,1549262800,"~/.gitignore"
 -'  1  9  ~/.gitignore
 |4,39,1,9,1549262800,"~/.gitignore"
 -'  1  9  ~/.gitignore
@@ -75,6 +87,22 @@
 |4,39,2,13,1549262723,"~/credentials"
 -'  2  13  ~/credentials
 |4,39,2,13,1549262723,"~/credentials"
+-'  2  13  ~/credentials
+|4,39,2,13,1549262723,"~/credentials"
+-'  2  13  ~/credentials
+|4,39,2,13,1549262723,"~/credentials"
+-'  2  13  ~/credentials
+|4,39,2,13,1549262723,"~/credentials"
+-'  2  13  ~/credentials
+|4,39,2,13,1549262723,"~/credentials"
+-'  2  13  ~/credentials
+|4,39,2,13,1549262723,"~/credentials"
+-'  2  13  ~/credentials
+|4,39,2,13,1549262723,"~/credentials"
+-'  2  13  ~/credentials
+|4,39,2,13,1549262723,"~/credentials"
+-'  2  13  ~/credentials
+|4,39,2,13,1549262723,"~/credentials"
 -'  1  0  ~/credentials
 |4,39,1,0,1549262700,"~/credentials"
 -'  1  0  ~/credentials
@@ -91,6 +119,24 @@
 |4,39,1,0,1549262700,"~/credentials"
 -'  1  0  ~/credentials
 |4,39,1,0,1549262700,"~/credentials"
+-'  1  0  ~/credentials
+|4,39,1,0,1549262700,"~/credentials"
+-'  1  0  ~/credentials
+|4,39,1,0,1549262700,"~/credentials"
+-'  1  0  ~/credentials
+|4,39,1,0,1549262700,"~/credentials"
+-'  1  0  ~/credentials
+|4,39,1,0,1549262700,"~/credentials"
+-'  1  0  ~/credentials
+|4,39,1,0,1549262700,"~/credentials"
+-'  1  0  ~/credentials
+|4,39,1,0,1549262700,"~/credentials"
+-'  1  0  ~/credentials
+|4,39,1,0,1549262700,"~/credentials"
+-'  1  0  ~/credentials
+|4,39,1,0,1549262700,"~/credentials"
+-'  5  0  ~/file1.txt
+|4,39,5,0,1549262545,"~/file1.txt"
 -'  6  0  ~/file1.txt
 |4,39,6,0,1549262545,"~/file1.txt"
 -'  5  0  ~/file1.txt
@@ -109,6 +155,10 @@
 |4,39,5,0,1549262545,"~/file1.txt"
 -'  5  0  ~/file1.txt
 |4,39,5,0,1549262545,"~/file1.txt"
+-'  4  19  ~/file1.txt
+|4,39,4,19,1549262527,"~/file1.txt"
+-'  3  19  ~/file1.txt
+|4,39,3,19,1549262527,"~/file1.txt"
 -'  4  19  ~/file1.txt
 |4,39,4,19,1549262527,"~/file1.txt"
 -'  3  19  ~/file1.txt
@@ -191,77 +241,28 @@
 |4,39,2,11,1549262450,"~/file3.txt"
 -'  2  11  ~/file3.txt
 |4,39,2,11,1549262450,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
--'  1  19  ~/file3.txt
-|4,39,1,19,1549262437,"~/file3.txt"
+-'  2  11  ~/file3.txt
+|4,39,2,11,1549262450,"~/file3.txt"
+-'  2  11  ~/file3.txt
+|4,39,2,11,1549262450,"~/file3.txt"
+-'  2  11  ~/file3.txt
+|4,39,2,11,1549262450,"~/file3.txt"
+-'  2  11  ~/file3.txt
+|4,39,2,11,1549262450,"~/file3.txt"
 
 # History of marks within files (newest to oldest):
 
 > ~/file1.txt
-	*	1549263752	0
-	"	1	41
-	^	1	42
-	.	1	41
+	*	1549263864	0
+	"	6	10
+	^	6	11
+	.	6	10
 	+	1	21
 	+	3	12
 	+	4	21
 	+	5	17
 	+	1	41
+	+	6	10
 
 > ~/.gitignore
 	*	1549262844	0
