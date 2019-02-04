@@ -1,0 +1,2 @@
+this is file3 for first day
+Modified third file
